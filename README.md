@@ -22,7 +22,7 @@ Projeto desenvolvido afim de estudos que consiste no envio de emails sobe a arqu
 - Não há.
 
 ## Serviços externos
-- CloudAMQP (serviço de mensageria)
+- CloudAMQP
 
 ## Implantação em produção
 - Não há.
