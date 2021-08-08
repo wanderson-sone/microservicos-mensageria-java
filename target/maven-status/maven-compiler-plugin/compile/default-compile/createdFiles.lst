@@ -1,0 +1,10 @@
+com/ms/email/config/RabbitMQConfig.class
+com/ms/email/services/impl/EmailServiceImpl.class
+com/ms/email/consumers/EmailConsumer.class
+com/ms/email/models/enums/StatusEmail.class
+com/ms/email/repositories/EmailRepository.class
+com/ms/email/services/EmailService.class
+com/ms/email/services/dto/EmailDto.class
+com/ms/email/resources/EmailResource.class
+com/ms/email/MsEmailApplication.class
+com/ms/email/models/Email.class

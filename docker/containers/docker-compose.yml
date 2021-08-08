@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  ccvn-postgres:
+    extends:
+      file: postgres/postgres.yml
+      service: postgres
+    container_name: MS-EMAIL

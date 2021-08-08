@@ -1,0 +1,10 @@
+/home/wandeson/Documentos/DEV_2021/BACK-END/ms-email/src/main/java/com/ms/email/consumers/EmailConsumer.java
+/home/wandeson/Documentos/DEV_2021/BACK-END/ms-email/src/main/java/com/ms/email/MsEmailApplication.java
+/home/wandeson/Documentos/DEV_2021/BACK-END/ms-email/src/main/java/com/ms/email/config/RabbitMQConfig.java
+/home/wandeson/Documentos/DEV_2021/BACK-END/ms-email/src/main/java/com/ms/email/resources/EmailResource.java
+/home/wandeson/Documentos/DEV_2021/BACK-END/ms-email/src/main/java/com/ms/email/services/impl/EmailServiceImpl.java
+/home/wandeson/Documentos/DEV_2021/BACK-END/ms-email/src/main/java/com/ms/email/models/Email.java
+/home/wandeson/Documentos/DEV_2021/BACK-END/ms-email/src/main/java/com/ms/email/models/enums/StatusEmail.java
+/home/wandeson/Documentos/DEV_2021/BACK-END/ms-email/src/main/java/com/ms/email/repositories/EmailRepository.java
+/home/wandeson/Documentos/DEV_2021/BACK-END/ms-email/src/main/java/com/ms/email/services/dto/EmailDto.java
+/home/wandeson/Documentos/DEV_2021/BACK-END/ms-email/src/main/java/com/ms/email/services/EmailService.java
