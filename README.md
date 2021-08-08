@@ -6,6 +6,24 @@
 
 Projeto desenvolvido afim de estudos que consiste no envio de emails sobe a arquitetura de microserviços para trabalhar de forma assíncrona com mensageria utilizando Spring AMQP e o RabbitMQ.
 
+# Tecnologias utilizadas
+
+## Back end
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
+- Spring AMQP
+- Lombok
+- Postgres
+- Docker
+- 
+## Front end
+- Não há.
+
+## Implantação em produção
+- Não há.
+
 
 # Autor
 
