@@ -1,5 +1,7 @@
 # Microservices, Mensageria e Java.
 
+https://img.shields.io/github/license/wanderson-sone/microservicos-mensageria-java?style=plastic
+
 Projeto desenvolvido afim de estudos que consiste no envio de emails sobe a arquitetura de microserviços para trabalhar de forma assíncrona com mensageria utilizando Spring AMQP e o RabbitMQ
 
 
