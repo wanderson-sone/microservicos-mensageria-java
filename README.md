@@ -17,9 +17,12 @@ Projeto desenvolvido afim de estudos que consiste no envio de emails sobe a arqu
 - Lombok
 - Postgres
 - Docker
-- 
+
 ## Front end
 - Não há.
+
+## Serviços externos
+- CloudAMQP (serviço de mensageria)
 
 ## Implantação em produção
 - Não há.
